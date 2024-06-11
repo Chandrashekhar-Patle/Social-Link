@@ -21,8 +21,8 @@ body{
     display: flex;
     flex-direction: column; 
     align-items: center;
-    box-shadow: 5px 10px 20px rgb(0, 255, 179) inset, 
-    5px 10px 20px rgb(0, 255, 179), 
+    box-shadow: 5px 10px 20px rgb(0, 225, 255) inset, 
+    5px 10px 20px rgb(0, 217, 255), 
     5px 10px 20px rgb(0, 4, 255),
     5px 10px 20px rgb(0, 47, 255) inset;
 } 
